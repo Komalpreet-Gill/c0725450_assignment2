@@ -27,7 +27,7 @@ namespace c0725450_assignment2
             }
         }
     }
-    public delegate int MyDelegate(out int i);
+    public delegate int MyDelegate();
 
     public class DelegateExercises
     {
